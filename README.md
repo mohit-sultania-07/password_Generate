@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # password-generator
 # password-generator
 # password_Generate
+Created by Mohit Sultania
